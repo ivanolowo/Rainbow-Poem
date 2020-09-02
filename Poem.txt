@@ -5,11 +5,10 @@ pink
 orange
 blue
 green
-indigo
+Indigo
 Unicorn
 yellow
 red
 These are the colors of the rainbow
 Unicorn
-Ponies
- master
+
